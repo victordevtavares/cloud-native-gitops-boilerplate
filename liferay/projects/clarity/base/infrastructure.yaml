@@ -1,0 +1,10 @@
+enabled: true
+database:
+  engine: postgres
+  instanceClass: db.t3.medium
+search:
+  opensearch:
+    username: liferay_search_admin
+projectId: clarity
+environmentId: dev
+region: us-east-1
