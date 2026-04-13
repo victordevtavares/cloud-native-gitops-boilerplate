@@ -1,0 +1,10 @@
+enabled: true
+database:
+  engine: postgres
+  instanceClass: db.t3.medium
+search:
+  opensearch:
+    enabled: true
+projectId: clarity
+environmentId: dev
+region: us-east-1
