@@ -4,7 +4,7 @@ database:
   instanceClass: db.t3.medium
 search:
   opensearch:
-    enabled: true
+    username: liferay_search_admin
 projectId: clarity
 environmentId: dev
 region: us-east-1

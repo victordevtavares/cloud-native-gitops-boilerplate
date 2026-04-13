@@ -1,7 +1,7 @@
 liferay-default:
   image:
-    repository: liferay/portal
-    tag: 7.4.3.112-ga112
+    repository: liferay/dxp
+    tag: 2026.q1.2-lts
   resources:
     requests:
       cpu: 2000m
